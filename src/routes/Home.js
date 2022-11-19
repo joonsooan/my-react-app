@@ -38,4 +38,4 @@ const Home = () => {
   );
 };
 
-export default Movie;
+export default Home;
